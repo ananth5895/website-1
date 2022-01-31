@@ -1,0 +1,15 @@
+.main-section{
+    background-image: url(../../assets/images/hero-bg.jpg);
+    /* height: 700px;
+    width: 900px; */
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: 100% 100%;
+}
+.section-1 h1{
+    font-size: 70px;
+    text-align: center;
+    padding-top: 158px;
+    padding-bottom: 340px;
+    color: white;
+}
